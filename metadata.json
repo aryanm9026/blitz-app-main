@@ -1,0 +1,6 @@
+{
+  "name": "BLITZSCHLAG 2027 — The Animated Coming Soon Experience",
+  "description": "An animated retro-Indian cinema inspired cinematic Coming Soon experience for BLITZSCHLAG 2027 cultural fest, featuring an interactive auto-rickshaw journey, speech bubbles, and grand poster reveal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
